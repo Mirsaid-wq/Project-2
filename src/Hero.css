@@ -1,0 +1,55 @@
+section {
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centers content */
+  gap: 80px; /* Increases space between text and image */
+  padding: 0 10%; /* Adds padding on both sides */
+}
+
+.text-container {
+  max-width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  margin-left: 5%; /* Moves text slightly toward the center */
+}
+
+h1 {
+  font-family: "Source Serif Pro", serif;
+  font-size: 44px;
+  font-weight: 400;
+  width: 500px;
+  text-align: left;
+}
+
+p {
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  width: 534px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #292c32;
+  text-align: left;
+}
+
+button {
+  width: 118px;
+  height: 44px;
+  border-radius: 6px;
+  background-color: #3a5f56;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #2c4d44;
+}
+
+img {
+  width: 552px;
+  height: 773px;
+}

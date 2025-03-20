@@ -3,7 +3,7 @@ import { FaShoppingCart } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <header className="container">
+    <header className="header-container">
       <h1>Mirro</h1>
       <nav className="nav-container">
         <ul>
