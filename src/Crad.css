@@ -1,4 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
+
 .card_h1 {
   color: #3a5f56;
   text-align: center;
@@ -28,7 +35,7 @@
   margin: 0; /* Remove default margins */
 }
 .card_1 {
-  width: 379px;
+  width: 30%;
   height: 304px;
   border-radius: 16px;
   background-color: lightgray;
@@ -70,5 +77,7 @@
 }
 .All {
   display: flex;
+  gap: 20px;
   flex-wrap: wrap;
+  padding-top: 50px;
 }
