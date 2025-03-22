@@ -1,5 +1,9 @@
 import React from "react";
 import "./Footer.css";
+import frame7 from "../icons/Frame (7).png";
+import frame8 from "../icons/Frame (8).png";
+import frame9 from "../icons/Frame (9).png";
+import frame10 from "../icons/Frame (10).png";
 
 const Footer = () => {
   return (
@@ -72,10 +76,10 @@ const Footer = () => {
           © Mirro Photography, LLC. All rights reserved. Powered by Webflow.
         </p>
         <div className="social-icons">
-          <img src="src/icons/Frame (7).png" alt="" />
-          <img src="src/icons/Frame (8).png" alt="" />
-          <img src="src/icons/Frame (9).png" alt="" />
-          <img src="src/icons/Frame (10).png" alt="" />
+          <img src={frame7} alt="Frame 7" />
+          <img src={frame8} alt="Frame 8" />
+          <img src={frame9} alt="Frame 9" />
+          <img src={frame10} alt="Frame 10" />
         </div>
       </div>
     </footer>
