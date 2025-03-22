@@ -1,0 +1,31 @@
+.contact_card {
+  width: 800px;
+  height: 259px;
+  border-radius: 16px;
+  background-color: gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.contact_card h2 {
+  width: 350px;
+  font-size: 32px;
+  font-weight: 400;
+}
+.contact_card button {
+  width: 125px;
+  height: 58px;
+  border-radius: 6px;
+  background-color: #3a5f56;
+  color: white;
+  margin: 0px;
+}
+.contact_card button a {
+  color: white;
+}
+.tell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}

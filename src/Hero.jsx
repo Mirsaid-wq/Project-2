@@ -15,7 +15,7 @@ const Hero = () => {
         </p>
         <button type="button">Read more</button>
       </div>
-      <img src="src/assets/IMAGE.png" alt="Photographer" />
+      <img className="img_3" src="src/assets/IMAGE.png" alt="Photographer" />
     </section>
   );
 };

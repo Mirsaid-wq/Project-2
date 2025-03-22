@@ -1,0 +1,164 @@
+.footer {
+  margin-top: 100px;
+  height: 800px;
+  background-color: #292c32;
+  color: white;
+}
+.logo {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  padding-top: 90px;
+  margin-bottom: 50px;
+}
+.footer-column h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #b87d58;
+}
+.footer-column {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer_ul {
+  display: flex;
+  flex-direction: column;https://github.com/Mirsaid-wq/Project-2git
+  gap: 15px;
+}
+.footer_ul li {
+  font-size: 20px;
+  font-weight: 400;
+}
+.footer_ul li a {
+  color: white;
+}
+.footer-column_2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-columns {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.footer-column_2 h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #b87d58;
+}
+.footer-column_2 UL {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-column_2 UL LI {
+  font-size: 20px;
+  font-weight: 400;
+}
+.footer-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.footer-column_3 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-column_3 h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #b87d58;
+}
+.footer-column_3 ul {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.footer-column_3 ul li {
+  font-size: 20px;
+  font-weight: 400;
+}
+.suu {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.suu li {
+  font-size: 20px;
+  font-weight: 400;
+}
+.si {
+  margin-top: 30px;
+}
+.sa {
+  margin-top: 30px;
+}
+.footer-column_4 h4 {
+  font-size: 20px;
+  font-weight: 400;
+  color: #b87d58;
+}
+.footer-column_4 p {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+}
+.newsletter-input input {
+  width: 458px;
+  height: 53px;
+  border-radius: 8px;
+  border: 1px solid gainsboro;
+}
+.newsletter-input input::placeholder {
+  font-size: 16px;
+  font-weight: 400;
+  text-align: center;
+}
+.newsletter-input button {
+  width: 71px;
+  height: 39px;
+  border-radius: 10px;
+  background-color: #3a5f56;
+  color: white;
+  margin: auto;
+}
+.newsletter-input {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin: auto;
+  margin-top: 10px;
+}
+.footer-bottom {
+  margin-top: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 250px;
+}
+.footer-bottom p {
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+}
+.social-icons {
+  display: flex;
+  align-items: center;
+
+  gap: 30px;
+}
+.social-icons img {
+  width: 24px;
+  height: 24px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
