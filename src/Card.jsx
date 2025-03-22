@@ -1,4 +1,5 @@
 import "./Crad.css";
+import frame4 from "./utils";
 
 const Card = () => {
   return (
@@ -41,7 +42,7 @@ const Card = () => {
               <div className="card_h2">
                 <h2>
                   Read more
-                  <img src="src/logos/IMAGE (4).png" alt="" />
+                  <img src="./icons" alt="" />
                 </h2>
               </div>
             </div>
@@ -56,7 +57,7 @@ const Card = () => {
               <div className="card_h2">
                 <h2>
                   Read more
-                  <img src="src/logos/IMAGE (4).png" alt="" />
+                  <img src={frame4} alt="" />
                 </h2>
               </div>
             </div>
