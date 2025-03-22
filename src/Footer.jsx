@@ -76,8 +76,9 @@ const Footer = () => {
           © Mirro Photography, LLC. All rights reserved. Powered by Webflow.
         </p>
         <div className="social-icons">
-          <img src={frame7} alt="Frame 7" />
-          <img src={frame8} alt="Frame 8" />
+          <img src="/icons/Frame-7.png" alt="Frame 7" />
+          <img src="/icons/Frame-8.png" alt="Frame 8" />
+
           <img src={frame9} alt="Frame 9" />
           <img src={frame10} alt="Frame 10" />
         </div>
