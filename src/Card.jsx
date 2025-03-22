@@ -6,10 +6,10 @@ const Card = () => {
     <>
       <section className="container">
         <div className="services">
-          <div class="card">
+          <div className="card">
             <img className="design" src="src/logos/Page-designs.png" alt="" />
-            <h1 class="card_h1">Services</h1>
-            <p class="card_p">
+            <h1 className="card_h1">Services</h1>
+            <p className="card_p">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
               Suspendisse varius enim in eros elementum tristique. Duis cursus,
               mi quis viverra ornare, eros dolor interdum nulla.
